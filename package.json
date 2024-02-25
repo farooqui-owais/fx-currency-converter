@@ -1,0 +1,26 @@
+{
+  "name": "fx--currency-converter",
+  "version": "1.0.0",
+  "description": "This is an currency converter package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farooqui-owais/fx-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "owaise farooqui",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/farooqui-owais/fx-currency-converter/issues"
+  },
+  "homepage": "https://github.com/farooqui-owais/fx-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
